@@ -10,5 +10,5 @@ Team members:
 
 Instructions for repository:
 ----------------------------------
-1. The bancap folder contains all the model(ipynb) files ran on the bancap dataset
+1. The Bancap folder contains all the model(ipynb) files ran on the bancap dataset
 2. The BanglaLekha folder contains all the model(ipynb) files ran on the bancap dataset
