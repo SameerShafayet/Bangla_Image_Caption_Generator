@@ -7,3 +7,8 @@ Team members:
 1. K.M Rahiduzzaman Kiran ID: 200041224
 2. Sameer Shafayet Latif ID: 200041231
 3. Sayema Amin ID: 200041234
+
+Instructions for repository:
+----------------------------------
+1. The bancap folder contains all the model(ipynb) files ran on the bancap dataset
+2. The BanglaLekha folder contains all the model(ipynb) files ran on the bancap dataset
