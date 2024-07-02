@@ -13,4 +13,4 @@ Instructions for repository:
 1. The Bancap folder contains all the model(ipynb) files ran on the bancap dataset
 2. The BanglaLekha folder contains all the model(ipynb) files ran on the bancap dataset
 
-For convenience and to show easily the demo of our machine learning model, we used GRADIO. All the ipynb files are given according to their respective folders
+For convenience and to show easily the demo of our machine learning model, we used GRADIO. All the ipynb files are given according to their respective folders. The CSV files for the Bancap and BanglaLekha dataset are in their respective folders. These CSV files contains the image names along with the reference captions.
