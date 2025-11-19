@@ -6,7 +6,7 @@ This is also known as image captioning. For various models of CNN (Encoders), we
 Team members:
 1. K.M Rahiduzzaman Kiran ID: 200041224
 2. Sameer Shafayet Latif ID: 200041231
-3. Sayema Amin ID: 200041234
+3. Sayemah Amin ID: 200041234
 
 Instructions for repository:
 ----------------------------------
